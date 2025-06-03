@@ -8,6 +8,8 @@ Topluluk için temeller atılıyor.
 21.05.2025 - Belge oluşum
 03.06.2025 - Son güncelleme
 
+<br><br>
+
 ## BÖLÜM 1 : TEMEL FELSEFE VE AMAÇLAR
 
 ### 1.1 Temel Felsefe: 
@@ -25,17 +27,17 @@ Topluluk için temeller atılıyor.
 - Üyelerinin sektörde aranan yetkinliklere sahip olmasını sağlamak, ortak projelerle değer üretmek, bilgi birikimiyle geleceğin teknoloji liderlerini yetiştirmek ve Türkiye'de yazılım ekosistemine pozitif katkıda bulunan, tanınan bir topluluk haline gelmek.
 
 
-
+<br><br>
 
 ## BÖLÜM 2 : ORGANİZASYON YAPISI VE ROLLER
 
-### 1.1 Kurucu Lider (Mefamex) :
+### 2.1 Kurucu Lider (Mefamex) :
 
 - **Sorumlulukları**: Vizyonu belirlemek ve korumak, genel stratejiyi oluşturma, sistemi yönetme ve denetleme, alt ekip liderlerini koordine etme, nihai kararları verme, dış ilişkiler ve ortaklıklar için birincil kontak olma, motivasyonu yüksek tutma, kaynak sağlama (bilgi, mentorluk vb.).
 - **Yetkileri**: Tam yetki. Sistem kurallarını belirleme ve uygulama, üye kabul/çıkarma süreçlerinde son onay, alt ekip oluşturma ve görevlendirme.
 
 
-### 1.2 Çekirdek Üyeler (ilk kişiler) :
+### 2.2 Çekirdek Üyeler (ilk kişiler) :
 
 **Genel Sorumluluları:**
 - Aktif katılım (tartışmalar, projeler, etkinlikler).
@@ -50,7 +52,7 @@ Topluluk için temeller atılıyor.
 - İçerik Üreticisi: Öğrenilen bilgileri özetleyen notlar, blog yazıları, sunumlar hazırlama.
 
 
-#### 1.3 Alt Ekipler
+#### 2.3 Alt Ekipler
 
 - Topluluk büyüdükçe oluşacaktır.
 - Alt ekip oluşturma talep üzerine açılır. 
@@ -59,7 +61,7 @@ Topluluk için temeller atılıyor.
 - Kurucu Lider, bu alt ekiplerle düzenli iletişim halinde olur.
 - Her alt ekip amacına göre notlar alır ve alt lider bu notları denetler
 
-##### 1.3.1 Takipçiler
+##### 2.3.1 Takipçiler
 
 Üye Gelişimi, Refahı ve Geri Bildirim Alt Ekibi
 
@@ -74,7 +76,7 @@ Topluluk için temeller atılıyor.
     - Geri bildirim toplama mekanizmaları (anketler, birebir görüşmeler) oluşturmak ve analiz etmek.
     - Çatışma çözümü ve arabuluculuk yapmak.
 
-##### 1.3.2 Kova
+##### 2.3.2 Kova
 
 Proje Geliştirme ve Freelance Fırsatları Alt Ekibi
 
@@ -90,7 +92,7 @@ Proje Geliştirme ve Freelance Fırsatları Alt Ekibi
     - Proje takımları oluşturmak, görev dağılımı yapmak.
     - Gerektiğinde proje yönetim metodolojilerini (Agile / Scrum...) uygulamak.
 
-##### 1.3.3 MadMax
+##### 2.3.3 MadMax
 
 Etkinlik, Eğitim ve Dış İlişkiler Alt Ekibi
 
@@ -102,7 +104,7 @@ Etkinlik, Eğitim ve Dış İlişkiler Alt Ekibi
     - Üniversiteler, diğer topluluklar ve şirketlerle işbirliği fırsatları araştırmak.
     - Topluluğun sosyal medya hesaplarını yönetmek, tanıtım materyalleri oluşturmak.
 
-##### 1.3.3 Rasher
+##### 2.3.3 Rasher
 
 İçerik ve Dokümantasyon Alt Ekibi
 
@@ -116,6 +118,7 @@ Etkinlik, Eğitim ve Dış İlişkiler Alt Ekibi
     - Topluluğa özgü bilgi bankası (wiki, Notion sayfası vb.) oluşturmak ve güncel tutmak.
 
 
+<br><br>
 
 
 ## BÖLÜM 3 : ÜYELİK SÜRECİ VE KATILIM
@@ -165,7 +168,7 @@ Etkinlik, Eğitim ve Dış İlişkiler Alt Ekibi
 - Sosyal etkinliklere iştirak etme
 - Mentorlük yapma / alma
 
-
+<br><br>
 
 ## BÖLÜM 4 : İLETİŞİM VE İŞBİRLİĞİ PLATFORMLARI
 
@@ -215,6 +218,8 @@ Not Alma ve Bilgi Yönetimi (Topluluk Hafızası)
 - Google Calendar : vazgeçilmezimiz
 
 
+<br><br>
+
 
 ## BÖLÜM 5 : TEMEL SÜREÇLER VE FAALİYETLER
 
@@ -249,6 +254,7 @@ Not Alma ve Bilgi Yönetimi (Topluluk Hafızası)
 - **360 Derece Geri Bildirim (İleri Seviye)**: üyelerin birbirlerine yapıcı geri bildirim vermesi.
 
 
+<br><br>
 
 
 ## BÖLÜM 6 : FİNANSAL KAYNAKLAR 
@@ -258,6 +264,7 @@ Not Alma ve Bilgi Yönetimi (Topluluk Hafızası)
 ### 6.2 Para Akışının Yönetimi:
 
 
+<br><br>
 
 
 ## BÖLÜM 7 : KURALLAR VE İLKELER
@@ -269,6 +276,8 @@ Not Alma ve Bilgi Yönetimi (Topluluk Hafızası)
 ### 7.3 Fikri Mülkiyet (IP):
 
 
+<br><br>
+
 
 ## BÖLÜM 8 : PERFORMANS, VERİMLİLİK VE KULLANILABİLİRLİK
 
@@ -279,6 +288,8 @@ Not Alma ve Bilgi Yönetimi (Topluluk Hafızası)
 ### 8.3 Verimliliği Artırma Yolları:
 
 
+<br><br>
+
 
 ## BÖLÜM 9 : ÖDÜLLENDİRME VE TAKDİR MEKANİZMASI 
 
@@ -288,6 +299,8 @@ Not Alma ve Bilgi Yönetimi (Topluluk Hafızası)
 
 ### 9.3 Fırsat Sağlama: ne kadar ekmek o kadar köfte ^^ 
 
+
+<br><br>
 
 
 ## BÖLÜM 10 : GÖREV DAĞILIMLARI 
