@@ -1,12 +1,12 @@
 # KOD SİNİR AĞI TOPLULUĞU
 
 Topluluk için temeller atılıyor. 
-16.03.2025 - Niyet edildi
-25.04.2025 - Olabilir...
-02.05.2025 - Görüşler toplanıyor
-15.05.2025 - Sistem hazırlanıyor
-21.05.2025 - Belge oluşum
-03.06.2025 - Son güncelleme
+- 16.03.2025 - Niyet edildi
+- 25.04.2025 - Olabilir...
+- 02.05.2025 - Görüşler toplanıyor
+- 15.05.2025 - Sistem hazırlanıyor
+- 21.05.2025 - Belge oluşum
+- 03.06.2025 - Son güncelleme
 
 <br><br>
 
