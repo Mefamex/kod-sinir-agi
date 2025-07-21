@@ -7,6 +7,7 @@ Topluluk için temeller atılıyor.
 - 15.05.2025 - Sistem hazırlanıyor
 - 21.05.2025 - Belge oluşum
 - 03.06.2025 - Son güncelleme
+- 21.07.2025 - Discord
 
 <br><br>
 
