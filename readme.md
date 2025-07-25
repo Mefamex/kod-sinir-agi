@@ -50,10 +50,10 @@ Topluluk için temeller atılıyor.
 ## DETAYLI BİLGİ
 
 ### Topluluk Hakkında
-- İlgili belge: [parantez-ruhu/topluluk.md](parantez-ruhu/topluluk.md)
+- İlgili belge: [PARANTEZ RUHU](PARANTEZ_RUHU.md)
 
 ### Discord Sunucusu Hakkında
-- İlgili belge: [parantez-ruhu/Discord/PARANTEZ_RUHU_Discord.md](parantez-ruhu/Discord/PARANTEZ_RUHU_Discord.md)
+- İlgili belge: [PARANTEZ RUHU Discord](Discord\PARANTEZ_RUHU_Discord.md)
 
 
 
