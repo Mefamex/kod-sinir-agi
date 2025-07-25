@@ -53,6 +53,7 @@
     - 📅-etkinlik-duyuruları
     - 📊-haftalık-özet
     - 🤝-buddy-eşleştirme
+    - 📊-topluluk-istatistikleri
 
 - ═══════➤💬GENEL
     - 💭-genel-sohbet
@@ -64,7 +65,6 @@
     - 🎲-random
     - 👋-kendini-tanıt
     - 💭-öneri-kutusu
-    - 📊-topluluk-istatistikleri
     - 🎤
 
 - ═══════➤👥 MANAGEMENT
