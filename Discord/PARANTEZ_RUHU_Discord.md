@@ -31,7 +31,7 @@
 
 
 ## 🚪 NASIL KATILABİLİRİM?
-- Sunucuya katılmak için mevcut üyelerden herhangi biriyle iletişime geçebilirsiniz.
+- Sunucuya katılmak için mevcut üyelerden veya liderlerden herhangi biriyle iletişime geçebilirsiniz.
 
 
 
