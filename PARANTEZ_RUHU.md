@@ -5,7 +5,7 @@ Topluluk için temeller atılıyor.
 - 25.04.2025 - Olabilir...
 - 02.05.2025 - Görüşler toplanıyor
 - 15.05.2025 - Sistem hazırlanıyor
-- 21.05.2025 - Belge oluşum
+- 21.05.2025 - Belge oluşturuldu
 - 03.06.2025 - Son güncelleme
 - 21.07.2025 - Discord
 - 23.07.2025 - Whatsapp

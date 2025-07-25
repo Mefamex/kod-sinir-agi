@@ -5,7 +5,7 @@ Topluluk için temeller atılıyor.
 - 25.04.2025 - Olabilir...
 - 02.05.2025 - Görüşler toplanıyor
 - 15.05.2025 - Sistem hazırlanıyor
-- 21.05.2025 - Belge oluşum
+- 21.05.2025 - Belge oluşturuldu
 - 03.06.2025 - Son güncelleme
 - 21.07.2025 - Discord
 - 23.07.2025 - Whatsapp
@@ -38,9 +38,10 @@ Topluluk için temeller atılıyor.
 
 ### Kuruluş Hikayesi:
 - Ben Aksaray Üniversitesi'nde yazılım mühendisliği öğrencisiyim. Her yazılım mühendisliği öğrencisinin karşılaştığı motivasyon eksikliği, destek ihtiyacı, bilgi paylaşımı, soru sorma platformu eksikliği, sorunları dile getirme ihtiyacı ve gelişimde aktif kalma zorluğu gibi problemleri bizzat deneyimledim.
-- Bu ortak sorunları çözmek için; hepimizi bir çatı altında toplayan Aksaray Üniversitesi içinde bir ekosistem oluşturmayı amaçladım.
+- Bu ortak sorunları çözmek için; hepimizi bir çatı altında toplayan Aksaray Üniversitesi içinde bir ekosistem oluşturmayı *2025 Mart't*a* amaçladım.
+- Bu topluluğu oluşturmadan önce danıştığım ve fikir aldığım kişilerin hepsinden olumlu geri dönüşler aldım ve bu sistemi oluşturma konusunda cesaretlendim.
 - Birbirimize destek olacağımız, yardımlaşacağımız ve birlikte büyüyeceğimiz bir topluluk fikri böyle doğdu.
-- PARANTEZ RUHU, yazılım yolculuğunda kimsenin yalnız kalmaması, herkesin birbirinden öğrenmesi ve hep birlikte ilerlemesi vizyonuyla kuruldu.
+- PARANTEZ RUHU, yazılım yolculuğunda kimsenin yalnız kalmaması, herkesin birbirinden öğrenmesi ve hep birlikte ilerlemesi vizyonuyla *2025 Temmuz'da* kuruldu.
 
 <br><hr><br><br>
 
