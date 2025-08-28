@@ -163,7 +163,9 @@ Topluluk için temeller atılıyor.
 - Mentorlük yapma
 - Topluluğun içindeki sorunu giderme, öneride bulunma
 
+
 <br><br>
+
 
 ## BÖLÜM 4 : İLETİŞİM VE İŞBİRLİĞİ PLATFORMLARI
 
@@ -175,7 +177,7 @@ Bu platformda temel aranan nitelikler: kanallar, yetkinlikler,
 - Whatsapp: Numara gizliliği ve depolama sorunu için önlem alınmalı.
 - Alternatif
     - **Telegram**: Güvenli ve hızlı iletişim için popüler bir alternatif.
-    - **Signal**: Güvenli mesajlaşma için tercih edilebilir, ancak topluluk büyüklüğü ve etkileşimi açısından sınırlı kalabilir.
+    - **Signal**: Güvenli mesajlaşma için tercih edilebilir, ancak aynasız sohbetler için şu an erken.
     - **Slack**  : Küçük bir ücreti var.
     - **Guilded**: Bu topluluğa uygunluğu tartışılır.
     - **Matrix**: Açık kaynaklı bir iletişim protokolü.
