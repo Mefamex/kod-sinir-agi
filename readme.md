@@ -59,6 +59,7 @@ Topluluk için temeller atılıyor.
 
 
 
+
 ## DETAYLI BİLGİ
 
 ### Topluluk Hakkında

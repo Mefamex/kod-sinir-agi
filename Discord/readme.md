@@ -1,6 +1,8 @@
 # PARANTEZ RUHU TOPLULUĞU Discord Sunucusu
 
+
 <br><br>
+
 
 ## SUNUCU HAKKINDA
 

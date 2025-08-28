@@ -10,7 +10,9 @@ Topluluk için temeller atılıyor.
 - 21.07.2025 - Discord
 - 23.07.2025 - Whatsapp
 
+
 <br><br>
+
 
 ## İÇİNDEKİLER
 
